@@ -1,0 +1,1 @@
+#write a program that takes three numbers and print their sum. ev
